@@ -14,7 +14,7 @@ This database is publicly available. The user may only use the database for non-
 
 Before downloading the database, you need to send an application e-mail to Prof. Hui Yu (<hui.yu@glasgow.ac.uk>) and cc. to <xiayifan@sdu.edu.cn> through a valid academic or institute email account. 
 
-Your Email MUST include the following text with the attachment of the End User License Agreement.
+Your Email MUST include the following text with the attachment of the [End User License Agreement](https://github.com/Yifan313/AFLFP/blob/main/End_User_License_Agreement.pdf).
 
 ```
 Subject: Application to download the AFLFP Database
