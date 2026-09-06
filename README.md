@@ -10,7 +10,7 @@ Facial landmark detection is a crucial step for the task of computer-aided facia
 
 ## How to get access to the AFLFP database
 
-This database is publicly available. Users may only use it for non‑commercial academic research. 
+This database is publicly available. Users may only use the database for non‑commercial academic research. 
 
 Before downloading the database, users are required to send an application email to Prof. Hui Yu (<hui.yu@glasgow.ac.uk>) and cc. to <xiayifan@sdu.edu.cn> through a valid academic or institute email account.
 
