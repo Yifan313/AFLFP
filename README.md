@@ -52,4 +52,4 @@ To cite the following paper in any publications of yours that makes any use of t
 Two additional annotation resources derived from our other studies are publicly available for complementary research, including facial palsy severity grade and unilateral facial action unit (AU) intensity.
 
 - **Facial palsy severity grade annotations**: [[Link]](https://github.com/Yating180/MultiFPE)
-- **Unilateral AU intensity annotations**: [coming soon]
+- **Unilateral AU intensity annotations**: [[Link]](https://github.com/peter-bob/UniAU-FP)
